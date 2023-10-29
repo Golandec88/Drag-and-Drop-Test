@@ -1,0 +1,139 @@
+{
+  "items": [
+    {
+      "name": "Mastercard",
+      "items": [
+        {
+          "name": "Mastercard (Standard)"
+        },
+        {
+          "name": "Mastercard (World)"
+        },
+        {
+          "name": "Mastercard (Platinum)"
+        },
+        {
+          "name": "Mastercard (Gold)"
+        },
+        {
+          "name": "Mastercard"
+        }
+      ]
+    },
+    {
+      "name": "Вклады",
+      "items": [
+        {
+          "name": "Максимал фойда (Нац. валюта)"
+        },
+        {
+          "name": "Online (Нац. валюта)"
+        },
+        {
+          "name": "Аванс (Нац. валюта)"
+        },
+        {
+          "name": "Максимал фойда 2"
+        }
+      ]
+    },
+    {
+      "name": "Кредиты",
+      "items": [
+        {
+          "name": "Mastercard (Standard)"
+        },
+        {
+          "name": "Mastercard (World)"
+        },
+        {
+          "name": "Mastercard (Standard)"
+        },
+        {
+          "name": "Mastercard (World)"
+        },
+        {
+          "name": "Mastercard (Standard)"
+        },
+        {
+          "name": "Mastercard (World)"
+        },
+        {
+          "name": "Mastercard (Standard)"
+        },
+        {
+          "name": "Mastercard (World)"
+        },
+        {
+          "name": "Mastercard (Platinum)",
+          "items": [
+            {
+              "name": "Максимал фойда (Нац. валюта)"
+            },
+            {
+              "name": "Online (Нац. валюта)"
+            },
+            {
+              "name": "Аванс (Нац. валюта)",
+              "items": [
+                {
+                  "name": "Максимал фойда (Нац. валюта)"
+                },
+                {
+                  "name": "Online (Нац. валюта)"
+                },
+                {
+                  "name": "Аванс (Нац. валюта)"
+                },
+                {
+                  "name": "Максимал фойда 2"
+                }
+              ]
+            },
+
+            {
+              "name": "Максимал фойда 2"
+            }
+          ]
+        },
+        {
+          "name": "Mastercard (Gold)"
+        },
+        {
+          "name": "Mastercard"
+        }
+      ]
+    },
+    {
+      "name": "Вклады 2",
+      "items": [
+        {
+          "name": "Максимал фойда (Нац. валюта)"
+        },
+        {
+          "name": "Online (Нац. валюта)"
+        },
+        {
+          "name": "Аванс (Нац. валюта)"
+        },
+        {
+          "name": "Максимал фойда 2",
+          "items": [
+            {
+              "name": "Максимал фойда (Нац. валюта)"
+            },
+            {
+              "name": "Online (Нац. валюта)"
+            },
+            {
+              "name": "Аванс (Нац. валюта)"
+            },
+            {
+              "name": "Максимал фойда 2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

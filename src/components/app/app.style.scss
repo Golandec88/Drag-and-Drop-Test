@@ -1,0 +1,17 @@
+.app {
+  max-width: 1656px;
+  margin: 10px auto;
+  padding: 0 10px;
+  &-result {
+    &__title {
+      font-size: 28px;
+      font-weight: 500;
+      display: inline-block;
+      margin-bottom: 39px;
+      margin-right: 14px;
+    }
+  }
+  .app-chip {
+    bottom: 3px;
+  }
+}

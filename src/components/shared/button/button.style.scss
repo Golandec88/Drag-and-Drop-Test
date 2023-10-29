@@ -1,0 +1,27 @@
+.app-button {
+  border: none;
+  background: none;
+  cursor: pointer;
+  padding: 4px;
+  height: 32px;
+  transition: .3s;
+  &--primary {
+    background: var(--primary-color);
+    border: 1px solid var(--primary-color);
+    border-radius: var(--app-elements-radius);
+    &:hover {
+      background: var(--accent-background);
+    }
+  }
+  &--secondary {
+    background: var(--accent-background);
+    border: 1px solid var(--primary-color);
+    border-radius: var(--app-elements-radius);
+    &:hover {
+      background: var(--primary-color);
+    }
+  }
+  &--icon {
+    width: 32px;
+  }
+}

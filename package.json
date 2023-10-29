@@ -10,8 +10,7 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "vue": "^3.2.13",
-    "vue-class-component": "^8.0.0-0"
+    "vue": "^3.2.13"
   },
   "devDependencies": {
     "@types/jest": "^27.0.1",
@@ -30,6 +29,7 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-vue": "^8.0.3",
+    "html-loader": "^4.2.0",
     "jest": "^27.5.1",
     "prettier": "^2.4.1",
     "sass": "^1.32.7",
